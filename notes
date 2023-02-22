@@ -1,0 +1,12 @@
+propertydetails
+
+import data housesData
+
+import useParams
+
+import {BiBed, BiBath, BiArea} icons
+import Link
+
+
+get the house id:
+const {id} = useParams();
